@@ -1,0 +1,20 @@
+# Gradle files
+.gradle/
+build/
+*/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local configuration files
+local.properties
+
+# Android Studio files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Keystore files
+*.jks
+
+# Misc
+.DS_Store
